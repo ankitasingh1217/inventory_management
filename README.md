@@ -31,3 +31,7 @@ Move Product B to Location X
 Move Product A from Location X to Location Y
 (make 20 such movements)
 Get product balance in each Location in a grid view, with 3 columns: Product, Warehouse, Qty
+
+
+
+https://frappe.io/flask-test
